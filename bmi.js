@@ -10,6 +10,7 @@ class BMI {
         return bmi;
 
     }
+    
 }
 // Used to calculate the given BMI
 let MyBmi = new BMI(2, 90);
